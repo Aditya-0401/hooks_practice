@@ -1,0 +1,36 @@
+.container{
+    width: 15rem;
+    margin: 0 0.2rem;
+    float: left;
+    position: relative;
+}
+
+.pic img{
+    width: 100%;
+}
+
+.title{
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.channel,.views{
+    font-size: small;
+    color: #ccc;
+    margin-bottom: 0.2rem;
+}
+
+.views span{
+    padding: 0 0.5rem;
+}
+
+.close{
+    position: absolute;
+    right: 0;
+}
+
+.edit{
+    position: absolute;
+    right: 3rem;
+}
